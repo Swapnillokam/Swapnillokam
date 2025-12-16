@@ -9,7 +9,7 @@ and <strong>CAD Automation</strong>
 ---
 
 - 🔭 Currently building <strong>scalable MERN applications</strong> and
-  <strong>production-grade AutoCAD plugins (C#)</strong>
+  <strong>production-grade CAD plugins (C#)</strong>
 
 - 🌱 Actively strengthening
   <strong>Data Structures & Algorithms</strong>,
